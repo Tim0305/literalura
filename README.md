@@ -20,11 +20,11 @@ Literalura es un proyecto realizado en Java con ayuda de Spring Framework y Post
 - `Mostrar Top 10 Libros en Literalura`: El usuario puede visualizar los Top 10 Libros registrados en Literalura basados en la cantidad de descargas de cada libro.
 - `Mostrar Top 10 Libros en la API`: El usuario puede visualizar los Top 10 Libros registrados en la API de <a href="https://gutendex.com/">Gutendex</a> basados en la cantidad de descargas de cada libro.
 - `Mostrar estadísticas de los libros por idioma`: El usuario puede visualizar las estadísticas de los libros escritos en un idioma en específico.
-  - `Cantidad Máxima de Descargas`
-  - `Cantidad Mínima de Descargas`
-  - `Promedio de Descargas`
-  - `Cantidad Total de Descargas`
-  - `Cantidad de Libros en ese idioma`
+  - Cantidad Máxima de Descargas
+  - Cantidad Mínima de Descargas
+  - Promedio de Descargas
+  - Cantidad Total de Descargas
+  - Cantidad de Libros en ese idioma
 
 
 ## 📂 Acceso al proyecto
@@ -48,7 +48,7 @@ Para acceder al proyecto solo es descargar la carpeta Moneycon y ejecutarla.
 
 ## 🔴 PATH Variables
 En el archivo "application.properties" existen algunas variables:
-- `$DB_HOST`: Es la dirección de la BD. Si el proyecto es local debe ser "localhost".
+- `$DB_HOST`: Es la dirección de la BD. Si el proyecto es local debe ser `localhost`.
 - `$DB_NAME`: Es el nombre de la BD.
 - `$DB_USER`: Es el nombre de usuario dentro de la BD.
 - `$DB_PASSWORD`: Es la contraseña del usuario dentro de la BD.
