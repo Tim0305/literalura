@@ -31,7 +31,7 @@ Literalura es un proyecto realizado en Java con ayuda de Spring Framework y Post
 Para acceder al proyecto solo es descargar la carpeta Moneycon y ejecutarla.
 
 <p align="center">
-  <img style="height: 100" src = "https://github.com/Tim0305/literalura/assets/83103008/f8424290-ff88-4ef9-b366-c06768f7419d" alt = "Spring Framework">
+  <img src = "https://github.com/Tim0305/literalura/assets/83103008/f8424290-ff88-4ef9-b366-c06768f7419d" alt = "Spring Framework">
   <img src = "https://github.com/Tim0305/literalura/assets/83103008/7069072b-af69-4720-bad3-101b55dc3678" alt = "PostgreSQL">
 </p>
 
